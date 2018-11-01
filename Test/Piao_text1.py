@@ -50,7 +50,7 @@ def login():
     u"等待验证码，自行输入..."
     sleep(10)
 
-
+#66666666666666
 def huoche():
     global b
     b = Browser(driver_name="chrome")
